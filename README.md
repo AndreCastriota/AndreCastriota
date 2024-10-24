@@ -37,10 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AndreCastriota/AndreCastriota/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="750" src="https://media.tenor.com/WZkyrYDAv8wAAAAM/black-black-man.gif"  />
 </div>
